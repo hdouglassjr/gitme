@@ -1,3 +1,3 @@
 import platform
 
-print(platform.system())
+print(f"System: {platform.system()}")
